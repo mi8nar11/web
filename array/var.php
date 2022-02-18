@@ -1,1 +1,1 @@
-var binatang ={'kucing','koala','monyet','panda','kerbau','kelinci',};
+var binatang =['kucing','koala','monyet','panda','kerbau','kelinci'];
